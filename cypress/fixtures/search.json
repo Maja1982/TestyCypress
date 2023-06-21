@@ -1,0 +1,23 @@
+[
+    {
+        "fraza":"Wiki"
+    },
+    {
+        "fraza": "Wikipedia"
+    },
+    {   "fraza": "politechnika bialostocka",
+        "query": "?q=politechnika+bialostocka"
+    },  
+    {
+        "fraza": "poradnie",
+        "query": "?s=poradnie"
+    },
+    {
+        "fraza": "dyrekcja",
+        "query": "?s=dyrekcja"
+    },
+    {
+        "fraza": "badania",
+        "query": "?s=badania"
+    }
+    ]
